@@ -1,0 +1,18 @@
+<collection name="a1">
+    <movie title="Enemy Behind">
+        <type>War, Thriller</type>
+        <format>DVD</format>
+        <year>2003</year>
+        <rating>3.5</rating>
+        <stars>5</stars>
+        <description updated="yes">Talk about US-Japan warNew Description</description>
+    </movie>
+    <movie title="Ishtar">
+        <type>Comedy</type>
+        <format>CD</format>
+        <year>2000</year>
+        <rating>4</rating>
+        <stars>2</stars>
+        <description updated="yes">ViewableNew Description</description>
+    </movie>
+</collection>
